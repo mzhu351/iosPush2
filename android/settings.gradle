@@ -1,0 +1,3 @@
+rootProject.name = 'iosPush2'
+
+include ':app'
